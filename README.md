@@ -17,6 +17,7 @@
 <img align="left" alt="Kotlin" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_64x64.png" />
 <img align="left" alt="Java" width="22px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png" />
 <br>
+
 ### Frameworks
 <img align="left" alt="django" width="55px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />
 <img align="left" alt="Android" width="28px" src="https://user-images.githubusercontent.com/35396885/90538521-4ced7680-e19c-11ea-929f-e7b49030efcf.png" />
@@ -25,6 +26,6 @@
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=bhaskarjha514&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/bhaskarjha514" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AjjuSingh?style=social"/> 
+<img src="https://gpvc.arturio.dev/bhaskarjha514" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/bhaskarjha514?style=social"/> 
 
 
